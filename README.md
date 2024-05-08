@@ -39,4 +39,14 @@ AI-PNG è un software di implementazione di LLM su PNG in giochi online e locali
 #### Lead API Developer
 #### AI Implementer
 
+## Buisness plan
+### Progetto in 5 righe
+### Descrizione di BFB studios
+### Analisi di mercato
+### Organizzazione
+### Cosa offriamo
+### Segmentazione del nostro target
+### Piano di marketing
+### Piano logistico
+### Piano finanziario
 
