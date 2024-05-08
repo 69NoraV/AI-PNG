@@ -1,7 +1,9 @@
 # AI-PNG
-Software di implementazione di LLM su PNG su giochi online e locale.
 
+> Questa repo è solo per gli addetti ai lavori, serve per dare chiaro un inizio al progetto
 
+## Che cosa è  
+AI-PNG è un software di implementazione di LLM su PNG in giochi online e locali. Il suo compito è quello di rendere semplice la implementazione di 'intelligenza artificiale' e di LLM all'interno di giochi, rendendoli più immersivi e realistici in ambito di interazioni con i PNG (personaggi non giocanti).
 ## WBS
 ```
 1 Software development
