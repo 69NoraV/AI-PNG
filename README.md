@@ -25,7 +25,18 @@ AI-PNG è un software di implementazione di LLM su PNG in giochi online e locali
 ```
 ## Ruoli
 ### RAFFAELE G. F. DI MARTINO
+#### Project Manager
+#### API Developer
+#### AI Implementer
 
 ### ELIA GUIZZARDI
-
+#### Designer
+#### API Develpoer
+#### Beta tester
+#### Web Developer
 ### MATTEO FRABETTI
+#### Web developer
+#### Lead API Developer
+#### AI Implementer
+
+
